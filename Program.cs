@@ -68,3 +68,4 @@ string PrintArray(string[] array)
 
 Console.WriteLine("элементы массива  длина которых меньше либо равна 3 символа:");
 Console.WriteLine($"{PrintArray(newArrayStrings)}");
+
